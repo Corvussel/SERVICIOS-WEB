@@ -10,14 +10,7 @@ namespace MiServicioWeb.controller
 {
     [Route("api/[controller]")]
     public class CalcularSueldoBaseController : Controller
-    {
-        private readonly ILogger<CalcularSueldoBaseController> _logger;
-
-        public CalcularSueldoBaseController(ILogger<CalcularSueldoBaseController> logger)
-        {
-            _logger = logger;
-        }
-
+    { 
         //calcular sueldo base  
         //formular sueldo base = horas trabajadas * tarifa por hora
         /************************************************************************************/

@@ -10,13 +10,7 @@ namespace MiServicioWeb.controller
 {
     [Route("api/[controller]")]
     public class FechaController : Controller
-    {
-        private readonly ILogger<FechaController> _logger;
-
-        public FechaController(ILogger<FechaController> logger)
-        {
-            _logger = logger;
-        }
+    { 
 
         [HttpGet("restaFecha")]
         public string RestaFecha()

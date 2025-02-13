@@ -10,13 +10,7 @@ namespace MiServicioWeb.controller
 {
     [Route("api/[controller]")]
     public class OperacionesController : Controller
-    {
-        private readonly ILogger<OperacionesController> _logger;
-
-        public OperacionesController(ILogger<OperacionesController> logger)
-        {
-            _logger = logger;
-        }
+    { 
  
         [HttpGet("sumar")]
         public string Sumar(int num1, int num2)
