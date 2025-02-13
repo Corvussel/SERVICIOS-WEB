@@ -30,7 +30,7 @@ namespace MiServicioWeb.controller
         }
 
         // calcular sueldo final 
-        //formular bono = sueldo base * porcentaje de bono  
+        // formula bono = sueldo base * porcentaje de bono  
         // sueldo final = sueldo base + bono 
         /************************************************************************************/
         [HttpGet("sueldoFinal")]

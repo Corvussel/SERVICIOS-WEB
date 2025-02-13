@@ -18,31 +18,27 @@ namespace MiServicioWeb.controller
             _logger = logger;
         }
  
-        // Sumar: /api/fecha/sumar?num1=5&num2=3
         [HttpGet("sumar")]
         public string Sumar(int num1, int num2)
         {
             int resultado = num1 + num2;
             return $"La suma de {num1} y {num2} es: {resultado}";
         }
-
-        // Restar /api/fecha/restar?num1=10&num2=4
+ 
         [HttpGet("restar")]
         public string Restar(int num1, int num2)
         {
             int resultado = num1 - num2;
             return $"La resta de {num1} menos {num2} es: {resultado}";
         }
-
-        // Multiplicar /api/fecha/multiplicar?num1=2&num2=8
+ 
         [HttpGet("multiplicar")]
         public string Multiplicar(int num1, int num2)
         {
             int resultado = num1 * num2;
             return $"La multiplicación de {num1} por {num2} es: {resultado}";
         }
-
-        // Dividir /api/fecha/dividir?num1=20&num2=4
+ 
         [HttpGet("dividir")]
         public string Dividir(int num1, int num2)
         {
@@ -52,6 +48,9 @@ namespace MiServicioWeb.controller
             int resultado = num1 / num2;
             return $"La división de {num1} entre {num2} es: {resultado}";
         }
+
+        //nota para el docente ejecutar mediante swagger
+        //http://localhost:5070/swagger
 
     }
 }

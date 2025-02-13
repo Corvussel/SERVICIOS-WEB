@@ -19,9 +19,9 @@ namespace MiServicioWeb.controller
         }
 
         [HttpGet("restaFecha")]
-         public string RestaFecha()
+        public string RestaFecha()
         {
-            
+
             DateTime hoy = DateTime.Now;
             DateTime ayer = hoy.AddDays(-1);
 
@@ -29,5 +29,7 @@ namespace MiServicioWeb.controller
 
             return $"Han pasado {diferencia.TotalHours} horas desde ayer.";
         }
+        //nota para el docente ejecutar mediante swagger
+        //http://localhost:5070/swagger
     }
 }
