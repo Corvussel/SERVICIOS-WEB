@@ -1,0 +1,7 @@
+C:\Users\leoru\source\repos\CalculadoraService\CalculadoraService\bin\Debug\CalculadoraService.dll.config
+C:\Users\leoru\source\repos\CalculadoraService\CalculadoraService\bin\Debug\CalculadoraService.dll
+C:\Users\leoru\source\repos\CalculadoraService\CalculadoraService\bin\Debug\CalculadoraService.pdb
+C:\Users\leoru\source\repos\CalculadoraService\CalculadoraService\obj\Debug\CalculadoraService.csproj.AssemblyReference.cache
+C:\Users\leoru\source\repos\CalculadoraService\CalculadoraService\obj\Debug\CalculadoraService.csproj.CoreCompileInputs.cache
+C:\Users\leoru\source\repos\CalculadoraService\CalculadoraService\obj\Debug\CalculadoraService.dll
+C:\Users\leoru\source\repos\CalculadoraService\CalculadoraService\obj\Debug\CalculadoraService.pdb

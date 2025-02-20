@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AE8ADD-F147-4CBD-8211-308E2EC2CCC2}|Clientes\\Clientes.csproj|c:\\users\\leoru\\source\\repos\\calculadoraservice\\clientes\\clientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0AE8ADD-F147-4CBD-8211-308E2EC2CCC2}|Clientes\\Clientes.csproj|solutionrelative:clientes\\clientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AE8ADD-F147-4CBD-8211-308E2EC2CCC2}|Clientes\\Clientes.csproj|c:\\users\\leoru\\source\\repos\\calculadoraservice\\clientes\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AE8ADD-F147-4CBD-8211-308E2EC2CCC2}|Clientes\\Clientes.csproj|solutionrelative:clientes\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AE8ADD-F147-4CBD-8211-308E2EC2CCC2}|Clientes\\Clientes.csproj|c:\\users\\leoru\\source\\repos\\calculadoraservice\\clientes\\connected services\\calculadoraservice\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AE8ADD-F147-4CBD-8211-308E2EC2CCC2}|Clientes\\Clientes.csproj|solutionrelative:clientes\\connected services\\calculadoraservice\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993BC3-4B5B-4EEB-8F94-7FEBF5A181DC}|CalculadoraService\\CalculadoraService.csproj|c:\\users\\leoru\\source\\repos\\calculadoraservice\\calculadoraservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C993BC3-4B5B-4EEB-8F94-7FEBF5A181DC}|CalculadoraService\\CalculadoraService.csproj|solutionrelative:calculadoraservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993BC3-4B5B-4EEB-8F94-7FEBF5A181DC}|CalculadoraService\\CalculadoraService.csproj|c:\\users\\leoru\\source\\repos\\calculadoraservice\\calculadoraservice\\calculadoraservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{9C993BC3-4B5B-4EEB-8F94-7FEBF5A181DC}|CalculadoraService\\CalculadoraService.csproj|solutionrelative:calculadoraservice\\calculadoraservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993BC3-4B5B-4EEB-8F94-7FEBF5A181DC}|CalculadoraService\\CalculadoraService.csproj|c:\\users\\leoru\\source\\repos\\calculadoraservice\\calculadoraservice\\calculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993BC3-4B5B-4EEB-8F94-7FEBF5A181DC}|CalculadoraService\\CalculadoraService.csproj|solutionrelative:calculadoraservice\\calculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993BC3-4B5B-4EEB-8F94-7FEBF5A181DC}|CalculadoraService\\CalculadoraService.csproj|c:\\users\\leoru\\source\\repos\\calculadoraservice\\calculadoraservice\\icalculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993BC3-4B5B-4EEB-8F94-7FEBF5A181DC}|CalculadoraService\\CalculadoraService.csproj|solutionrelative:calculadoraservice\\icalculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\Clientes\\Connected Services\\CalculadoraService\\Reference.cs",
+              "RelativeDocumentMoniker": "Clientes\\Connected Services\\CalculadoraService\\Reference.cs",
+              "ToolTip": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\Clientes\\Connected Services\\CalculadoraService\\Reference.cs",
+              "RelativeToolTip": "Clientes\\Connected Services\\CalculadoraService\\Reference.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:53:05.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientes",
+              "DocumentMoniker": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\Clientes\\Clientes.csproj",
+              "RelativeDocumentMoniker": "Clientes\\Clientes.csproj",
+              "ToolTip": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\Clientes\\Clientes.csproj",
+              "RelativeToolTip": "Clientes\\Clientes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T01:51:55.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\Clientes\\Clientes.cs",
+              "RelativeDocumentMoniker": "Clientes\\Clientes.cs",
+              "ToolTip": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\Clientes\\Clientes.cs",
+              "RelativeToolTip": "Clientes\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:51:50.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\CalculadoraService\\App.config",
+              "RelativeDocumentMoniker": "CalculadoraService\\App.config",
+              "ToolTip": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\CalculadoraService\\App.config",
+              "RelativeToolTip": "CalculadoraService\\App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-20T01:20:11.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculadoraService.svc",
+              "DocumentMoniker": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\CalculadoraService\\CalculadoraService.svc",
+              "RelativeDocumentMoniker": "CalculadoraService\\CalculadoraService.svc",
+              "ToolTip": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\CalculadoraService\\CalculadoraService.svc",
+              "RelativeToolTip": "CalculadoraService\\CalculadoraService.svc",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2025-02-20T01:16:19.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculadoraService.cs",
+              "DocumentMoniker": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\CalculadoraService\\CalculadoraService.cs",
+              "RelativeDocumentMoniker": "CalculadoraService\\CalculadoraService.cs",
+              "ToolTip": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\CalculadoraService\\CalculadoraService.cs",
+              "RelativeToolTip": "CalculadoraService\\CalculadoraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:08:10.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICalculadoraService.cs",
+              "DocumentMoniker": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\CalculadoraService\\ICalculadoraService.cs",
+              "RelativeDocumentMoniker": "CalculadoraService\\ICalculadoraService.cs",
+              "ToolTip": "C:\\Users\\leoru\\source\\repos\\CalculadoraService\\CalculadoraService\\ICalculadoraService.cs",
+              "RelativeToolTip": "CalculadoraService\\ICalculadoraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:07:09.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
